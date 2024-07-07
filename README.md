@@ -7,7 +7,7 @@ I am a QA Automation Engineer. I don't like procrastination and  have a hunger t
      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
  </a>
   <a href="https://leetcode.com/u/shpatserman_maria/" target="_blank" rel="noreferrer"> 
-     <img src="assets/icons/leetcode/default.svg" width="48" height="48" alt="leetcode logo"  />
+     <img src="assets/icons/leetcode/default.svg" width="52" "   />
 </p>
 
 <hr>
