@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi 👋 ! I'm Maria!
+
+I am QA Automation Engineer. I don't like procrastination and  have a hunger to learn something new. Now I try sort out with all types of testing in Spring Boot applications.
 
 <!--
 **maria-shpatserman/maria-shpatserman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
