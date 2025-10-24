@@ -11,6 +11,9 @@ I am a Lead QA Automation Engineer. I don't like procrastination and have a hung
      <img src="assets/icons/linkedin/linkedin.svg" width="50" style="vertical-align:middle;"   /></a>
  <a href="https://leetcode.com/u/shpatserman_maria/" target="_blank" rel="noreferrer"> 
      <img src="assets/icons/leetcode/leetcode.svg" width="46"  style="vertical-align:middle;"  /> </a>
+      <a href="https://huggingface.co/spaces/maria-shpatserman/career_chatbot" target="_blank" rel="noreferrer"> 
+     <img src="assets/icons/huggingface/hf-logo.svg" width="46"  style="vertical-align:middle;"  /> </a>
+     
 
 
  
