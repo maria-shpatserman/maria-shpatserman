@@ -1,6 +1,8 @@
 ## Hi 👋 ! I'm Maria!
 
-I am a QA Automation Engineer. I don't like procrastination and  have a hunger to learn something new. Now I try sort out with all types of testing in Spring Boot applications.
+I am a Lead QA Automation Engineer. I don't like procrastination and have a hunger to learn something new.  I sorted out with all  types of testing in Spring Boot applications. Now I continue my journey with Agentic AI Engineering course from Udemy.
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left" text-align="center">
   <a href="https://www.linkedin.com/in/maria-shpatserman-3a19b61b/" target="_blank" rel="noreferrer"> 
